@@ -21,6 +21,7 @@ src/
 - **Specific Grade Counter**: Counts the number of students who obtained a specific grade
 - **Additional Feature**: Interactive grade search with the option to repeat the search by typing "yes" or "oui", implemented using a While loop
 
+<img src="captures/img_1.png">
 ### Running EXO1
 ```bash
 javac src/EXO1.java
