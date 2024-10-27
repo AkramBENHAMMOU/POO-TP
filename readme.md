@@ -22,6 +22,7 @@ src/
 - **Additional Feature**: Interactive grade search with the option to repeat the search by typing "yes" or "oui", implemented using a While loop
 
 <img src="captures/img_1.png">
+<img src="captures/img.png" alt="exo1">
 ### Running EXO1
 ```bash
 javac src/EXO1.java
@@ -35,6 +36,8 @@ java -cp src EXO1
 - Validation of verb ending ("-er")
 - Extraction of verb stem
 - Application of present tense endings for all persons
+
+<img src="captures/img_2.png">
 
 ### Running EXO2
 ```bash
@@ -51,6 +54,11 @@ java -cp src EXO2
 - String reversal
 - Word count
 - Menu-driven interface using Switch-case
+
+<img src="captures/img_3.png">
+<img src="captures/img_4.png">
+<img src="captures/img_5.png">
+<img src="captures/img_6.png">
 
 ### Menu Options
 1. Enter a string
@@ -72,6 +80,8 @@ java -cp src EXO3
 - Character occurrence counting
 - Display of letter frequencies (excluding non-present letters)
 - Array-based counting implementation
+
+<img src="captures/img_7.png">
 
 ### Running EXO4
 ```bash
